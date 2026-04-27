@@ -34,6 +34,12 @@ The goal is to provide a seamless interface where users can:
 
 ---
 
+## Video
+
+https://github.com/user-attachments/assets/882e3b8b-6db8-4dc8-ae53-4cd83f9b7a97
+
+---
+
 ## 🛠️ Installation Guide
 
 ### Prerequisites
